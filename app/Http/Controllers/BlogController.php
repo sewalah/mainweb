@@ -5,7 +5,8 @@ use App\Http\Controllers\Controller;
 class BlogController extends Controller {
 
 	public function main(){
-		return view('blog/main');
+		$data['name'] = 'Robotys';
+		return view('blog/main')->with($data);
 	}
 
 }
