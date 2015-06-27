@@ -27,3 +27,9 @@ Pertama sekali, jom download semua kod2 terkini di repo ini. Ikut langkah-langka
 
 7. Test dah jalan ke tak
 ---
+
+--------------------
+
+Seterusnya, mohon baca artikel berikut: [https://guides.github.com/introduction/flow/](Github Flow)
+
+Itu adalah gerak kerja kita semua dalam repo ini. Mohon hadam dan jika tidak faham, roger tim dev lain di group telegram.
